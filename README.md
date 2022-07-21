@@ -3,10 +3,10 @@
 
 **Versions:**   
 the different versions are represented by the folders at the root of the github branch. For example, to get the complete code of version 1.3, you need to 
-access the `softwarebot1.3-github` folder. 
+access the `automod_v1.3` folder. 
 
 **File information:**   
-When you access the directory for a release, there are several files. The file with the `.py` extension (in the above example `softwarebot1.3-github.py`) is 
+When you access the directory for a release, there are several files. The file with the `.py` extension (in the above example `automod_v1.3.py`) is 
 simply the complete Softwarebot code. Please note that if you wish to use it and/or modify the code, you must enter the required information. Still in the 
 example of version 1.3, the mention `token_number` as indicated at the top corresponds to the token of your bot discord: this one will thus change each 
 time. The other elements to modify are usually indicated from the second or third line of the python file code.     
