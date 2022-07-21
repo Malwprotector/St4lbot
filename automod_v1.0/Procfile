@@ -1,0 +1,1 @@
+worker: python3 automod_1.0.py
