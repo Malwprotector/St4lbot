@@ -24,4 +24,4 @@ If you have any problems, don't hesitate to contact me! :)**
     
 *Please note that when you use any of the code here, you must mention the following to me if possible:* 
     
-Made by stalW_ | https://github.com/malwprotector
+St4LW | https://github.com/malwprotector
