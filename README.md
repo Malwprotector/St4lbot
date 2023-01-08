@@ -20,8 +20,6 @@ This one is mainly used to tell your hosting service which python libraries to i
 we write it as shown in the file.       
 
 **So when you install Softwarebot on a hosting service, you MUST send these three files to the service.
-If you have any problems, don't hesitate to contact me! :)**
+If you have any problems, don't hesitate to contact me! :)** 
     
-*Please note that when you use any of the code here, you must mention the following to me if possible:* 
-    
-St4LW | https://github.com/malwprotector
+Powered with <3 by st4lw :) | https://github.com/malwprotector
